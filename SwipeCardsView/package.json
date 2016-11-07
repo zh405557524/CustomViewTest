@@ -1,0 +1,18 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "15.3.2",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "1"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "1",
+  "license": "UNLICENSED"
+}
